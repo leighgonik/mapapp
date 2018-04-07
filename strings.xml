@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Map App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="enter_loc">Enter Location</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_return">Return</string>
+    <string name="activity_display_map">Location</string>
+</resources>
